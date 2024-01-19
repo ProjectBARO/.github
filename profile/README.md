@@ -1,5 +1,6 @@
 ## BARO
-
+앉아있는 시간, <br>
+건강하게 바로 세우다.
 <!--
 
 **Here are some ideas to get you started:**
