@@ -1,6 +1,9 @@
 ## BARO
-앉아있는 시간, <br>
-건강하게 바로 세우다.
+<img src="https://github.com/ProjectBARO/.github/assets/107793780/a0660e6d-0b73-49f2-b498-5fe2c5b6cd26" width="860" height="650">
+
+## Architecture
+![image](https://github.com/ProjectBARO/.github/assets/107793780/72d6cfdf-97ec-4038-a5b8-9d7ef5cb6d85)
+
 <!--
 
 **Here are some ideas to get you started:**
