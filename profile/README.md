@@ -2,7 +2,8 @@
 <img src="https://github.com/ProjectBARO/.github/assets/107793780/a0660e6d-0b73-49f2-b498-5fe2c5b6cd26" width="860" height="650">
 
 ## Architecture
-![image](https://github.com/ProjectBARO/.github/assets/107793780/72d6cfdf-97ec-4038-a5b8-9d7ef5cb6d85)
+<img width="1553" alt="image" src="https://github.com/ProjectBARO/.github/assets/107793780/4b89c7f1-a17b-4869-ba6f-3cfbc2f98803">
+
 
 <!--
 
