@@ -1,6 +1,13 @@
 ## BARO
 <img src="https://github.com/ProjectBARO/.github/assets/107793780/a0660e6d-0b73-49f2-b498-5fe2c5b6cd26" width="860" height="650">
 
+## What is BARO?
+"BARO(바로)", derived from the Korean word meaning 'straight' or 'correct', embodies the essence of maintaining a properly aligned posture or physique.
+
+Our application, "BARO", lives up to its name by assisting users in maintaining proper posture. Using pose estimation technology, it captures, measures, and analyzes the user's posture, providing assistance in maintaining a correct stance.
+
+Our goal is to help users maintain proper posture, thereby detecting and alleviating problems such as spinal and neck pain. This aims to contribute to the users' overall well-being and productivity, as maintaining a correct posture is crucial, especially for those working long hours in a seated position.
+
 ## Goal
 **Goal 3. Good Health and Well-Being** 
 
