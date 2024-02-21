@@ -16,6 +16,10 @@ Therefore, our team has set out to solve this issue for people who work sitting 
 ## Architecture
 <img width="1553" alt="image" src="https://github.com/ProjectBARO/.github/assets/107793780/4b89c7f1-a17b-4869-ba6f-3cfbc2f98803">
 
+## ERD
+<img width="554" alt="image" src="https://github.com/ProjectBARO/.github/assets/107793780/cd8d7f93-4929-4224-b3f6-10baec91feb7">
+
+
 ## Team
 |Yehyeok Bang|Inhyeop Lee|Changhoon Ryu|Shinhee Kim|
 |:---:|:---:|:---:|:---:|
