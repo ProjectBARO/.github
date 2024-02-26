@@ -36,5 +36,5 @@ Therefore, our team has set out to solve this issue for people who work sitting 
 ## Team
 |Yehyeok Bang|Inhyeop Lee|Changhoon Ryu|Shinhee Kim|
 |:---:|:---:|:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/107793780?v=4" width="250">|<img src="https://avatars.githubusercontent.com/u/58465973?v=4" width="250">|<img src="https://avatars.githubusercontent.com/u/107829554?v=4" width="250">|<img src="https://avatars.githubusercontent.com/u/128473266?v=4" width="250">|
+|<a href="https://github.com/YehyeokBang"><img src="https://avatars.githubusercontent.com/u/107793780?v=4" width="250"></a>|<a href="https://github.com/cucumber99"><img src="https://avatars.githubusercontent.com/u/58465973?v=4" width="250"></a>|<a href="https://github.com/Ryuchanghoon"><img src="https://avatars.githubusercontent.com/u/107829554?v=4" width="250"></a>|<a href="https://github.com/shinheekim"><img src="https://avatars.githubusercontent.com/u/128473266?v=4" width="250">|
 |Backend|App|AI|PM|
