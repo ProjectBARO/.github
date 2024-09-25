@@ -21,13 +21,15 @@ Upon searching related keywords via Google Trends, we noticed that the interest 
 Therefore, our team has set out to solve this issue for people who work sitting for long hours, especially digital workers. By providing them with systematic health management methods, we aim to alleviate the problem of neck pain and contribute to the improvement of their quality of life caused by it.
 
 ## Architecture
-<img width="1553" alt="image" src="https://github.com/ProjectBARO/.github/assets/107793780/4b89c7f1-a17b-4869-ba6f-3cfbc2f98803">
+
+<img width="1288" alt="image" src="https://github.com/user-attachments/assets/e8b2fa79-91fb-4639-802d-9116fac0a7d8">
+
 
 |Part|Tech|
 |:---|:---|
 |Backend|`Go`  `gRPC`  `Cloud Build`  `Artifact Registry`  `Cloud Run`  `Firebase`  `VM Instance`  `MySQL`  `YouTube Data API`|
 |App|`Dart`  `Flutter`  `gRPC`  `TensorFlow Lite`  `Firebase`|
-|AI|`Python`  `TensorFlow`  `OpenCV`  `MediaPipe`  `NumPy`  `Flask`  `VM Instance`|
+|AI|`Python`  `TensorFlow`  `OpenCV`  `MediaPipe`  `NumPy`  `FastAPI`  `VM Instance`|
 |Etc|`GitHub`  `Notion`  `Figma`|
 ## ERD
 <img width="554" alt="image" src="https://github.com/ProjectBARO/.github/assets/107793780/cd8d7f93-4929-4224-b3f6-10baec91feb7">
