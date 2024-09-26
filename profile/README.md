@@ -1,7 +1,7 @@
 ## BARO
 <!--<img src="https://github.com/ProjectBARO/.github/assets/107793780/a0660e6d-0b73-49f2-b498-5fe2c5b6cd26" width="860" height="650">-->
 
-<img width="1500" alt="image" src="https://github.com/user-attachments/assets/90680b69-ae47-4fca-89a0-a07fc6c33367">
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/82d9f066-9145-4932-903f-266ba22fb33e">
 
 ## “앉아있는 시간, 건강하게 바로 세우다.”
 
@@ -16,7 +16,7 @@ BARO 애플리케이션은 **Pose Estimation(자세 추정 기술)** 을 사용�
 
 특히 **거북목 증후군(Text Neck Syndrome)** , **일자목 증후군(Forward Head Posture)** 등은 전 세계적으로도 큰 이슈가 되고 있으며, 이에 따라 관련 건강 문제에 대한 검색과 치료 수요가 증가하고 있습니다. 
 
-<img width="520" alt="image" src="https://github.com/user-attachments/assets/83cae266-30ee-4906-ae74-51827ba4c94f">
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/83cae266-30ee-4906-ae74-51827ba4c94f">
 
 Google Trends에 따르면, 거북목 증상과 관련된 검색어("척추 의사 찾기", "바른 자세 유지 방법" 등)는 매년 꾸준히 증가하고 있습니다.
 
