@@ -66,9 +66,13 @@ Therefore, our team has set out to solve this issue for people who work sitting 
 |App|`Dart`  `Flutter`  `gRPC`  `TensorFlow Lite`  `Firebase`|
 |AI|`Python`  `TensorFlow`  `OpenCV`  `MediaPipe`  `NumPy`  `FastAPI`  `VM Instance`|
 |Etc|`GitHub`  `Notion`  `Figma`|
+
 ## ERD
 <img width="554" alt="image" src="https://github.com/ProjectBARO/.github/assets/107793780/cd8d7f93-4929-4224-b3f6-10baec91feb7">
 
+## 개발 중 직면한 문제(우려)와 도전
+
+[Click here to visit the Wiki](https://github.com/ProjectBARO/.github/wiki)
 
 ## Team
 |Yehyeok Bang|Inhyeop Lee|Changhoon Ryu|Shinhee Kim|
