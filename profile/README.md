@@ -1,5 +1,7 @@
 ## BARO
-<img src="https://github.com/ProjectBARO/.github/assets/107793780/a0660e6d-0b73-49f2-b498-5fe2c5b6cd26" width="860" height="650">
+<!--<img src="https://github.com/ProjectBARO/.github/assets/107793780/a0660e6d-0b73-49f2-b498-5fe2c5b6cd26" width="860" height="650">-->
+
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/90680b69-ae47-4fca-89a0-a07fc6c33367">
 
 ## “앉아있는 시간, 건강하게 바로 세우다.”
 
